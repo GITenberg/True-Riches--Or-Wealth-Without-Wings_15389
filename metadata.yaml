@@ -1,0 +1,42 @@
+_repo: True-Riches--Or-Wealth-Without-Wings_15389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: The lessons herein taught are such as cannot be learned too early, nor
+  dwelt on too long or too often, by those who are engaged in the active and all-absorbing
+  duties of life. In the struggle for natural riches?the wealth that meets the eye
+  and charms the imagination?how many forget that true riches can only be laid up
+  in the heart; and that, without these true riches, which have no wings, gold, the
+  god of this world, cannot bestow a single blessing! To give this truth a varied
+  charm for young and old, the author has made of it a new presentation, and, in so
+  doing, sought to invest it with all.
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Adopted children -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Honesty -- Fiction'
+- !lcc 'PS'
+title: True Riches; Or, Wealth Without Wings
+url: http://www.gutenberg.org/ebooks/15389
